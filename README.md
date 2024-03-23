@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Django(channels), ReactJS,**
 
-- 👨‍💻 All of my projects are available at [This github profile](This github profile)
+- 👨‍💻 All of my projects are available at This github profile
 
 - 📫 How to reach me **neelv448@gmail.com**
 
